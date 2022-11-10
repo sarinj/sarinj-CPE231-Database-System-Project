@@ -1,0 +1,70 @@
+.imgweb{
+    background-image: url("Untitled design.png");
+    background-attachment: contain;
+    opacity: 1;
+}
+
+.headconvert{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    margin-right: 500px;
+    margin-left: 500px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.bgbody{
+    padding-bottom: 300px;
+    background-color: rgb(255, 255, 255);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+}
+
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.orderbuttom{
+    text-align: right;
+    margin-right: 30px;
+}
+
+.marketlibuttom{
+    text-align: left;
+    margin-left: 30px;
+}
+
+.cenbuttom{
+    text-align: center;
+}
+.fromc{
+    text-align: left;
+    text-size-adjust: 15;
+    margin-left: 390px;
+}
+
+[type=text]{
+    width: 50%;
+    padding: 12px 20px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+[type=submit] {
+    width: 50%;
+    background-color: #000000;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }

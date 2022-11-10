@@ -1,0 +1,109 @@
+.container{
+    padding: 32px;
+    padding-top :20px;
+
+}
+
+.funding_title{
+    margin-left: 40px;
+    margin-top : 30px;
+}
+
+.dep-wit_box{
+    background-color: #f7f7f7 ;
+  padding-top: 10px;
+}
+
+.search_select_box{
+  max-width: 400px;
+  margin-right: 100px;
+  margin-top: 10px;
+}
+
+.search_select_box select{
+  width: 100%;
+}
+
+.coinimage{
+  height:38px;
+  width :38px;
+  margin-left: 30px;
+}
+
+.title_selectcurrency{
+  margin-left: 100px;
+  padding-top: 10px;
+}
+
+.selectcurrency_amount{
+  display :flex ;
+  text-align: center;
+  justify-content: center;
+}
+
+.amount_input{
+  max-width: 350px;
+  padding-top: 10px;
+}
+
+.dep-wit_button{
+  padding-left: 40px;
+  padding-top: 10px;
+}
+
+.wallet_all_item{
+  background-color: white ;
+  margin-top: 30px;
+}
+
+.mywallet_title{
+  margin-left: 50px;
+  margin-top: 30px;
+}
+
+.itemlist_table{
+  height: 550px;
+  overflow: scroll;
+  overflow-x: unset;
+}
+
+.wallet_header{
+  margin-top: 20px;
+  margin-bottom: 40px;
+  text-align:center;
+  display: flex;
+  justify-content: space-around;
+}
+
+
+.coindetail{
+  width: 30%;
+  text-align: left;
+}
+
+
+
+table thead th{
+  text-align: center;
+}
+
+.form-check{
+  margin-left: 100px;
+}
+
+table tbody td{
+  text-align: center;
+}
+
+.cash_balance{
+  text-align: center;
+  margin-right: 100px;
+  display: flex;
+}
+
+table tbody tr td{
+    vertical-align: middle;
+}
+
+
+

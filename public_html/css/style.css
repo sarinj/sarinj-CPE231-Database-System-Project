@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.imgbox:hover {
+
+	-moz-box-shadow: 0 0 10px #ccc;
+
+	-webkit-box-shadow: 0 0 10 #ccc;
+
+	 box-shadow: 0 0 10px #CCC;
+
+	 opacity:0.85;
+
+	 filter: alpha(opcity=100);
+
+	 
+
+}
+
+
+
+
+
+
+

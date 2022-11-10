@@ -1,0 +1,53 @@
+
+
+.market_trend{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.market_trend_header{
+    padding-bottom: 20px;
+}
+
+.table_container{
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+    max-width: 1248px;
+}
+
+.coinimage{
+    height:38px;
+    width :38px;  
+}
+
+
+.marketscrolltable{
+    /*height: 550px;*/
+    /*overflow: scroll;*/
+    /*overflow-x: unset;*/
+}
+
+table thead{
+    position: sticky;
+    text-align: center;
+}
+
+.table tbody td{
+    justify-content: space-between;
+    vertical-align: middle;
+    text-align: center;
+}
+
+table th,td{
+    padding-left: 0px;
+    padding-right: 0px;;
+}
+
+.select-type{
+    margin-bottom: 7px;
+}
